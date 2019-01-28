@@ -1,4 +1,5 @@
 ## 启动
+git clone https://github.com/green1893/docker-disconf.git
 
 进入目录，运行命令 `docker-compose up -d` 即可完成disconf服务启动。
 
